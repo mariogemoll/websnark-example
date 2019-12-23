@@ -1,0 +1,10 @@
+/circuit.json
+/node_modules
+/package-lock.json
+/proof.json
+/proving_key.bin
+/proving_key.json
+/public.json
+/verification_key.json
+/witness.bin
+/witness.json
