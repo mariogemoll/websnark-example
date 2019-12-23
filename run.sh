@@ -12,8 +12,6 @@ node_modules/.bin/snarkjs proof
 
 node_modules/.bin/snarkjs verify
 
-ls node_modules
-
 node node_modules/websnark/tools/buildpkey.js
 
 node node_modules/websnark/tools/buildwitness.js

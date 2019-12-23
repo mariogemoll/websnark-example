@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "dependencies": {
     "circom": "0.0.35",
-    "snarkjs": "^0.1.20"
+    "snarkjs": "^0.1.20",
+    "websnark": "0.0.5"
   }
 }
